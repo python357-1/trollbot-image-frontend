@@ -1,4 +1,4 @@
-# game-image-maker
+# frontend
 
 ## Project setup
 ```
